@@ -1,18 +1,48 @@
-# React + Vite
+# Augmented Realties
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An academic team project that explores where **real estate, augmented reality and digital technology** meet. The idea started from growing up around a realtor and knowing how tiring "house tripping" can be: what if you could walk through a property before you ever visit it?
 
-Currently, two official plugins are available:
+**Live site:** https://augmentedrealties.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+![Augmented Realties home page](docs/home.png)
+![Augmented Realties on mobile](docs/mobile.png)
 
-## React Compiler
+## About the project
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+Augmented Realties brings several ideas into one concept: browsing properties, using AR to preview them, and using AI to support the experience. It was built by team **Napoles & Co.** as a school project, and it's an idea we'd love to keep exploring.
 
-Note: This will impact Vite dev & build performances.
+<!-- Optional: add 2-3 lines about the problem your users have and how the concept solves it. -->
 
-## Expanding the ESLint configuration
+## My role
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Strategy Lead and Operations Lead.** I:
+
+- came up with the original idea and helped shape the project's direction
+- coordinated the team
+- built the main website in React.js, which a teammate then translated into **React Native** for the mobile prototype
+- chose a deliberately more professional visual style than my usual aesthetic, so the design fits the project's identity
+
+## Tech
+
+- React.js + Vite
+- React Native (mobile prototype, built by a teammate from the website)
+- Deployed on Vercel
+
+## Team
+
+Napoles & Co.
+
+<!-- Add teammates' names and roles here if they're happy to be listed. -->
+
+## Run it locally
+
+```bash
+git clone https://github.com/iivischii/AugmentedRealties.git
+cd AugmentedRealties
+npm install
+npm run dev
+```
+
+## Author
+
+Website by **Cyrene Isabelle Wenceslao**. Portfolio: https://isabelleswebsite.vercel.app
