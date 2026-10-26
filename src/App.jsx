@@ -378,7 +378,10 @@ export default function App() {
           <h3>Napoles & Co.</h3>
           <p>AR architectural visualization</p>
           <p>
-            <a href="mailto:cyreneisabellewenceslao@gmail.com">cyreneisabellewenceslao@gmail.com</a> · Governor's Drive, Sampaloc 1, Dasmariñas City, Cavite
+            <a href="mailto:cyreneisabellewenceslao@gmail.com">cyreneisabellewenceslao@gmail.com</a>
+            {" · "}
+            <a href="mailto:napoles.aliyahkylie@gmail.com">napoles.aliyahkylie@gmail.com</a>
+            {" · "}Governor's Drive, Sampaloc 1, Dasmariñas City, Cavite
           </p>
         </div>
 
